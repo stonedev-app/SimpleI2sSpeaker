@@ -21,7 +21,7 @@ play audio from a WAV file using I2S on Raspberry Pi Pico.
 2. create your feature branch  
 3. commit your changes  
 4. push to the branch  
-5. sreate new Pull Request  
+5. create new Pull Request  
 ## Author  
 [stonedev-app](https://github.com/stonedev-app)
 ## Licence  
