@@ -2,6 +2,7 @@
 
 ## Overview  
 - Play audio from a WAV file using I2S on Raspberry Pi Pico.  
+
 ![Raspberry Pi Pico](https://github.com/stonedev-app/SimpleI2sSpeaker/blob/main/CircuitDiagram/SimpleI2sSpeaker_breadboard.png)
 ## Requirement  
 - Raspberry Pi Pico  
